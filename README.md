@@ -1,5 +1,4 @@
-# Hi there
-Soy Carlos Baztan, analista de datos. Este es mi espacio para compartir proyectos y mi aprendizaje continuo en Data Analytics.
+Este es mi espacio para compartir proyectos y mi aprendizaje continuo sobre Data Analytics.
 
 ## Herramientas que uso para Data Analytics
 <p align="left">
