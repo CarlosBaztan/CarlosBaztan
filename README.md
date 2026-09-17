@@ -4,7 +4,7 @@ Soy Carlos Baztan, analista de datos. Este es mi espacio para compartir proyecto
 
 ### Herramientas que uso para Data Analytics
 
-<p align="center">
+<p align="left">
   <img src="herramientas-data-analytics.jpg" alt="Herramientas para Data Analytics: Excel, SQL, Python y Power BI" width="350" />
 </p>
 
